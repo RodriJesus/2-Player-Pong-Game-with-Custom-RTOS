@@ -1,0 +1,9 @@
+.\objects\i2c_talk2each.o: I2C_Talk2Each.c
+.\objects\i2c_talk2each.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\i2c_talk2each.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
+.\objects\i2c_talk2each.o: ../inc/tm4c123gh6pm.h
+.\objects\i2c_talk2each.o: ../inc/hw_memmap.h
+.\objects\i2c_talk2each.o: ../inc/hw_types.h
+.\objects\i2c_talk2each.o: ../inc/hw_sysctl.h
+.\objects\i2c_talk2each.o: ../inc/hw_gpio.h
+.\objects\i2c_talk2each.o: ../inc/hw_i2c.h

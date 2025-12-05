@@ -1,0 +1,10 @@
+.\objects\main.o: main.c
+.\objects\main.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\main.o: ../inc/BSP.h
+.\objects\main.o: ../inc/CortexM.h
+.\objects\main.o: os.h
+.\objects\main.o: paddle.h
+.\objects\main.o: ball.h
+.\objects\main.o: C:\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
+.\objects\main.o: walls.h
+.\objects\main.o: comm_lib.h
